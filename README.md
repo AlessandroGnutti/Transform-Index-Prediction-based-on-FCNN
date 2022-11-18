@@ -4,7 +4,7 @@
 
 ## Organization
 
-In [**Matlab code**](https://github.com/AlessandroGnutti/Transform-Index-Prediction-based-on-FCC/tree/main/Matlab code) you can find .
+In [**Matlab c**](https://github.com/AlessandroGnutti/Transform-Index-Prediction-based-on-FCC/tree/main/Matlab c) you can find .
 
 In [**Results**](https://github.com/AlessandroGnutti/Transform-Index-Prediction-based-on-FCC/tree/main/Results) you can find the confusion matrices and the top-k accuracies for each dataset (with and without prediction mode for residuals).
 
