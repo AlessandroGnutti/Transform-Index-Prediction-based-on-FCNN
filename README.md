@@ -8,7 +8,7 @@ In [**Results**](https://github.com/AlessandroGnutti/Transform-Index-prediction-
 
 In [**Models**](https://github.com/AlessandroGnutti/Transform-Index-prediction-based-on-FCC/tree/main/Models) you can find the trained models for each dataset (with and without prediction mode for residuals).
 
-In [**Architectures (figures)**](https://github.com/AlessandroGnutti/Transform-Index-prediction-based-on-FCC/tree/main/Architectures (figures)) you can find the illustration of the model architectures for each dataset).
+In [**Architectures (figures)**](https://github.com/AlessandroGnutti/Transform-Index-prediction-based-on-FCC/tree/main/Architectures (figures)) you can find the illustration of the model architectures for each dataset.
 
 
 ## Contacts
