@@ -10,7 +10,7 @@ In [**Results**](https://github.com/AlessandroGnutti/Transform-Index-Prediction-
 
 In [**Models**](https://github.com/AlessandroGnutti/Transform-Index-Prediction-based-on-FCNN/tree/main/Models) you can find the trained models for each dataset (with and without prediction mode for residuals).
 
-In [**Architectures (figures)**](https://github.com/AlessandroGnutti/Transform-Index-Prediction-based-on-FCNN/tree/main/Architectures (figures)) you can find the illustration of the model architectures for each dataset.
+In [**Architectures_figures**](https://github.com/AlessandroGnutti/Transform-Index-Prediction-based-on-FCNN/tree/main/Architectures_figures) you can find the illustration of the model architectures for each dataset.
 
 
 ## Contacts
