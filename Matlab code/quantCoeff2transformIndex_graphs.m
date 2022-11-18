@@ -45,6 +45,6 @@ for k = 1:size(X,3)
         end
     end
 end
-% save(strcat('Out/Xq_QP',num2str(QP),'.mat'),'Xq')
-% save(strcat('Out/y_QP',num2str(QP),'.mat'),'y')
-% save(strcat('Out/predModes_QP',num2str(QP),'.mat'),'predModes')
+% save(strcat('Dataset/Xq_QP',num2str(QP),'.mat'),'Xq')
+% save(strcat('Dataset/y_QP',num2str(QP),'.mat'),'y')
+% save(strcat('Dataset/predModes_QP',num2str(QP),'.mat'),'predModes')
