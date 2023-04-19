@@ -71,4 +71,4 @@ for q = 1:L_q % Quantization step iteration
         my_bpp_dct(q,lambda_ind) = length(code_dct)/numel(X);
     end
 end
-save('Out/ResultsResiduals8x8_SBGFT.mat','my_psnr_gft','my_bpp_gft','my_bpp_graph_index','QP','lambda_vec')
+save('ResultsResiduals8x8_SBGFT.mat','my_psnr_gft','my_bpp_gft','my_bpp_graph_index','QP','lambda_vec')
