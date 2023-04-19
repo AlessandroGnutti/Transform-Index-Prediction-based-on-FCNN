@@ -16,7 +16,7 @@ In [**Architectures_figures**](https://github.com/AlessandroGnutti/Transform-Ind
 
 ## Preliminary results on comparison between SBGFTs and Explicit MTS (VVC)
 
-In [**Extended-Results**](https://github.com/AlessandroGnutti/Transform-index-Prediction-based-on-FCNN/tree/main/Extended-Results) you can find the Matlab code for generating a preliminary comparison between SBGFTs and Explicit Multiple Transform Selection adopted in VVC.
+In [**Extended-results**](https://github.com/AlessandroGnutti/Transform-index-Prediction-based-on-FCNN/tree/main/Extended-results) you can find the Matlab code for generating a preliminary comparison between SBGFTs and Explicit Multiple Transform Selection adopted in VVC.
 
 
 ## Contacts
