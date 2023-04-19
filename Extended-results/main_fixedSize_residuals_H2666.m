@@ -5,7 +5,7 @@ close all
 clc
 
 % Folders and files
-temp = load('In/X_N=8.mat');
+temp = load('X_N=8.mat');
 X = temp.X;
 random_ind = randsample(size(X,3), round(size(X,3)/10));
 X = X(:,:,random_ind);
