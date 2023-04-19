@@ -16,7 +16,9 @@ In [**Architectures_figures**](https://github.com/AlessandroGnutti/Transform-Ind
 
 ## Preliminary results on comparison between SBGFTs and Explicit MTS (VVC)
 
-In [**Extended-results**](https://github.com/AlessandroGnutti/Transform-index-Prediction-based-on-FCNN/tree/main/Extended-results) you can find the Matlab code for generating a preliminary comparison between SBGFTs and Explicit Multiple Transform Selection adopted in VVC.
+In [**Extended-results**](https://github.com/AlessandroGnutti/Transform-index-Prediction-based-on-FCNN/tree/main/Extended-results) you can find the Matlab code for generating a preliminary comparison between SBGFTs and explicit Multiple Transform Selection (MTS) adopted in VVC. Run ```main_fixedSize_residuals_H2666.m``` for producing the results associated with MTS (that is ```ResultsResiduals8x8_MTS.mat```) and ```main_fixedSize_residuals.m``` for producing the results associated with SBGFTs (that is ```ResultsResiduals8x8_SBGFT.mat```). ```myplot_residuals.m``` plots the RD curves.
+
+A bug was fixed, now the curves are updated and correct.
 
 
 ## Contacts
