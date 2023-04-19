@@ -5,16 +5,13 @@ close all
 clc
 
 % Folders and files
-temp = load('In/X_N=8.mat');
+temp = load('X_N=8.mat');
 X = temp.X;
 random_ind = randsample(size(X,3), round(size(X,3)/10));
 X = X(:,:,random_ind);
 
-fld_in = 'In/';
-str_U8 = 'U8.mat';
-
 % Parameters
-load(strcat(fld_in, str_U8)) % Load U
+load('U8.mat') % Load U
 U = changeU(U);
 N = sqrt(size(U, 1));
 numb_graphs = size(U,3); % Numero grafie
