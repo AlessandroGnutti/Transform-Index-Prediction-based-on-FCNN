@@ -50,4 +50,4 @@ for q = 1:L_q % Quantization step iteration
         my_bpp_transform_index(q,lambda_ind) = sum(bit_MTS)/numel(X);
     end
 end
-save('Out/ResultsResiduals8x8_MTS.mat','my_psnr_MTS','my_bpp_MTS','my_bpp_transform_index','QP','lambda_vec')
+save('ResultsResiduals8x8_MTS.mat','my_psnr_MTS','my_bpp_MTS','my_bpp_transform_index','QP','lambda_vec')
