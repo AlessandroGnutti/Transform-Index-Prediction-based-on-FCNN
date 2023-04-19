@@ -14,6 +14,8 @@ In [**Models**](https://github.com/AlessandroGnutti/Transform-Index-Prediction-b
 
 In [**Architectures_figures**](https://github.com/AlessandroGnutti/Transform-Index-Prediction-based-on-FCNN/tree/main/Architectures_figures) you can find the illustration of the model architectures for each dataset.
 
+## Preliminary results on comparison between SBGFTs and Explicit MTS (VVC)
+
 
 ## Contacts
 
